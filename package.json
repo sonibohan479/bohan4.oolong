@@ -1,0 +1,74 @@
+{
+  "name": "bohan4.oolong",
+  "version": "1.0.0",
+  "description": "Tracks trending open-source projects for the upcoming phase, utilizing averages for insightful trend analysis. ",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+
+
+    "bohan4.oolong": "^1.0.0",
+    "manlandram2test": "^1.0.0",
+    "idemizutani3-random": "^1.0.0",
+    "hakade3.soft": "^1.0.0",
+
+
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "jest": "^27.4.7",
+    "babel-eslint": "^10.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sonibohan479/bohan4.oolong.git"
+  },
+  "homepage": "https://github.com/sonibohan479/bohan4.oolong/blob/main/README.md",
+  "issues": "https://github.com/sonibohan479/bohan4.oolong/issues",
+  "keywords": [
+    "average",
+    "calculate",
+    "median",
+    "means",
+    "math"
+  ],
+  "author": "sonibohan479",
+  "license": "MIT"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
